@@ -60,3 +60,51 @@ Run Python code like a calculator.
 
 Interact in a conversational manner with memory.
 
+
+
+
+📚 Main Documentation Portal
+🔗 https://docs.langchain.com/
+
+📄 Core Components Docs
+Getting Started
+🔗 https://docs.langchain.com/docs/get-started/introduction
+
+Quickstart Guide
+🔗 https://docs.langchain.com/docs/get-started/quickstart
+
+Components Overview
+🔗 https://docs.langchain.com/docs/components/
+
+Retrieval
+🔗 https://docs.langchain.com/docs/modules/data_connection/retrieval/
+
+Memory
+🔗 https://docs.langchain.com/docs/modules/memory/
+
+Chains
+🔗 https://docs.langchain.com/docs/modules/chains/
+
+Agents
+🔗 https://docs.langchain.com/docs/modules/agents/
+
+Callbacks
+🔗 https://docs.langchain.com/docs/modules/callbacks/
+
+🛠️ Ecosystem Integrations
+Tools & Plugins
+🔗 https://docs.langchain.com/docs/integrations/tools/
+
+Vector Stores
+🔗 https://docs.langchain.com/docs/integrations/vectorstores/
+
+LLM Providers
+🔗 https://docs.langchain.com/docs/integrations/llms/
+
+👨‍💻 API Reference (for Developers)
+LangChain Python API
+🔗 https://api.python.langchain.com/en/latest/
+
+LangChainJS (JavaScript/TypeScript)
+🔗 https://js.langchain.com/docs/
+
